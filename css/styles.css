@@ -174,7 +174,7 @@ color: var(--title-color);
 .button-item:hover, .button-item:focus{
  color: #FFFFFF;
  background-color: var(--second-color);
-  
+ cursor: pointer;
 }
 div .buttons ul li{
   display: inline-block
